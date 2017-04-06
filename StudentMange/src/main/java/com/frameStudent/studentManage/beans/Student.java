@@ -5,7 +5,6 @@ public class Student {
 	private String name;
 	private String gender;
 	private String age;
-	
 	public Student() {
 		super();
 		// TODO Auto-generated constructor stub
