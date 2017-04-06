@@ -9,8 +9,7 @@ import com.frameStudent.studentManage.service.IStudentService;
 
 public class StudentServiceImpl implements IStudentService{
 		private IStudentDao dao;
-		
-
+	
 		public void setDao(IStudentDao dao) {
 			this.dao = dao;
 		}

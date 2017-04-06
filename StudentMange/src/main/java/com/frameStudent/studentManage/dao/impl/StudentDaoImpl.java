@@ -12,7 +12,6 @@ public class StudentDaoImpl implements IStudentDao{
 		// TODO Auto-generated method stub
 		
 	}
-
 	public void delStuById(int id) throws Exception {
 		// TODO Auto-generated method stub
 		
