@@ -10,10 +10,12 @@ public class StudentDaoImpl implements IStudentDao{
 
 	public void addStu(Student student) throws Exception {
 		// TODO Auto-generated method stub
+		System.out.println(student);
 		
 	}
 	public void delStuById(int id) throws Exception {
 		// TODO Auto-generated method stub
+		
 		
 	}
 
