@@ -8,6 +8,7 @@ import com.frameStudent.studentManage.beans.Student;
 public interface IStudentService {
 	
 
+	
 public void addStu(Student student) throws Exception;
 
 public void delStuById(int id) throws Exception;

@@ -6,6 +6,9 @@ import com.frameStudent.studentManage.beans.Room;
 import com.frameStudent.studentManage.beans.Student;
 
 public interface IStudentDao {
+	
+	
+	
 	/**
 	 * 添加学生信息
 	 * 
